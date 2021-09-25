@@ -1,0 +1,4 @@
+name: LDungeons
+version: ${project.version}
+main: cz.larkyy.ldungeons.LDungeons
+api-version: 1.16
